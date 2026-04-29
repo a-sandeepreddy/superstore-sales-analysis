@@ -27,6 +27,8 @@ discount impact, and sales trends.
 - Sales show **year-over-year growth** with Q4 seasonal peaks
 
 ## 📈 Dashboard
+[Link to Live Google Studio Dashboard](https://datastudio.google.com/reporting/7c2894d3-266e-4935-85a1-f43ed31c4699)
+
 ![Dashboard Overview](dashboard_overview.png)
 
 ### Profit by Category
